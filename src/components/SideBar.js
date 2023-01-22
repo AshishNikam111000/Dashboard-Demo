@@ -51,7 +51,7 @@ const SideBar = () => {
                     <div className='w-full'>Settings</div>
                 </div>
             </div>
-            <div className='flex items-center gap-2 cursor-pointer' onClick={() => navigator("/")}>
+            <div className='flex items-center gap-2 cursor-pointer' onClick={() => navigator("/Dashboard-Demo")}>
                 <div>Logout</div>
                 <div>
                     <img src={Icons.logoutIcon} alt="Logout" />
