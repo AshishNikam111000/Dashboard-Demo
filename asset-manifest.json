@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Dashboard-Demo/static/css/main.60a7919b.css",
+    "main.js": "/Dashboard-Demo/static/js/main.5059a386.js",
+    "static/js/787.5b9a3b1c.chunk.js": "/Dashboard-Demo/static/js/787.5b9a3b1c.chunk.js",
+    "static/media/Profile.png": "/Dashboard-Demo/static/media/Profile.81eb8ab2404552cd4e61.png",
+    "static/media/payment.svg": "/Dashboard-Demo/static/media/payment.bfdd25e67be2bc5891b54c6d993305c2.svg",
+    "static/media/home.svg": "/Dashboard-Demo/static/media/home.6acbd3cb48c25c44bbe30424cce43f2a.svg",
+    "static/media/settings.svg": "/Dashboard-Demo/static/media/settings.6e5d2a414f5495f8e848ae2e75f28f16.svg",
+    "static/media/students.svg": "/Dashboard-Demo/static/media/students.486f30acbba051913eb94ffcc80634a2.svg",
+    "static/media/report.svg": "/Dashboard-Demo/static/media/report.e510219e3a78ccd50d12e64d34d8cda4.svg",
+    "static/media/delete.svg": "/Dashboard-Demo/static/media/delete.68be3f1a85d95cbe931a73b902b6423f.svg",
+    "static/media/logout.svg": "/Dashboard-Demo/static/media/logout.eb5d29c246d98e1f34dd81c50ef80e25.svg",
+    "static/media/bell.svg": "/Dashboard-Demo/static/media/bell.b2b51ea3346adab18a3452d4a1f5f9fd.svg",
+    "static/media/user.svg": "/Dashboard-Demo/static/media/user.7927aba7217ec8501aa583f135647a54.svg",
+    "static/media/edit.svg": "/Dashboard-Demo/static/media/edit.45d706df73422cece5047a3ae58dcf83.svg",
+    "static/media/serach.svg": "/Dashboard-Demo/static/media/serach.eb4877b7b0fd9b90786211228bb56d09.svg",
+    "static/media/navbarSideBtn.svg": "/Dashboard-Demo/static/media/navbarSideBtn.d9ba2487438b1c2a10febfb612f2c392.svg",
+    "index.html": "/Dashboard-Demo/index.html",
+    "static/media/filter.svg": "/Dashboard-Demo/static/media/filter.e0a45dbb1b66fe4ce7943d8455d6cd1c.svg",
+    "static/media/course.svg": "/Dashboard-Demo/static/media/course.3f8e75ca5d93bd3997f363b980fc2195.svg",
+    "main.60a7919b.css.map": "/Dashboard-Demo/static/css/main.60a7919b.css.map",
+    "main.5059a386.js.map": "/Dashboard-Demo/static/js/main.5059a386.js.map",
+    "787.5b9a3b1c.chunk.js.map": "/Dashboard-Demo/static/js/787.5b9a3b1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60a7919b.css",
+    "static/js/main.5059a386.js"
+  ]
+}
